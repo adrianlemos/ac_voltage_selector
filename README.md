@@ -18,6 +18,15 @@ Este projeto apesar de possuir o README em três idiomas ele será sempre atuali
 # Descrição
 
 
+## Schematico
+![plot](./images/AC_Voltage_Selector.jpg)
+
+
+
+## 3D Imagens
+![plot](./images/AC-display-001.png) ![plot](./images/AC-display-002.png) ![plot](./images/AC-display-003.png)
+
+
 # Começando
 
 
@@ -31,4 +40,4 @@ Este projeto apesar de possuir o README em três idiomas ele será sempre atuali
 
 # Licensa
 
-# Bibliografia e links externos
+# Bibliografia e links externoss
