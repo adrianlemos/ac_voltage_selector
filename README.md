@@ -32,6 +32,11 @@ Este projeto apesar de possuir o README em três idiomas ele será sempre atuali
 
 ## Dependencias
 
+### Programas utilizados
+- Schematic and PCB Layout
+  - Kicad 6.0.2
+
+
 
 # Autor
 
