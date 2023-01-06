@@ -4,7 +4,11 @@
 Este projeto apesar de possuir o README em três idiomas ele será sempre atualizado em português primeiro. 
 
 
-# Nome do Projeto
+# AC Voltage Selector
+
+Este projeto foi criado com a intenção de selecionar automaticamente a tensão da rua ou do inversor de tensão. par amaiores informações sobre o porque do projeto vale apena visitar o [Blog](adrianlemos.com)
+
+Uma grande observação a ser feita é que esta placa e componentes foram pensados para serem encontados no Brasil.
 
 
 <!-- Table of Contents -->
@@ -13,9 +17,15 @@ Este projeto apesar de possuir o README em três idiomas ele será sempre atuali
 
 
 <!-- End of Conttents -->
+# Caixa 
+- Esta placa foi criada para o Modelo: DIM FUNDO 075 da Marca: Patola.
+- Botão switch [APEM 13435AD2K](https://www.mouser.com/ProductDetail/Apem/13435AD2K?qs=uQD7XCvsSCP0kwEECjH0NQ%3D%3D)
+
+
 
 
 # Descrição
+
 
 
 ## Schematico
@@ -40,9 +50,15 @@ Este projeto apesar de possuir o README em três idiomas ele será sempre atuali
 
 # Autor
 
-## Historico de Versão
+Schematico - Adrian Lemos
+Placa de Circuito Impresso - Adrian Lemos
 
 
 # Licensa
 
+Placa Open Hardware sobe a [licensa GPL-3.0](https://github.com/adrianlemos/ac_voltage_selector/blob/main/LICENSE)
+
+
 # Bibliografia e links externoss
+
+Mais informações sobre este componente do Projeto no [Blog](https://adrianlemos.com/2022/12/29/back-up-de-tensao-ac/)
